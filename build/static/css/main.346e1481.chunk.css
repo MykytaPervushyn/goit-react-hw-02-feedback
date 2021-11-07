@@ -1,0 +1,27 @@
+.Statistics_statisticsList__3hW5d {
+  list-style: none;
+}
+.Statistics_statisticItem__1_rNZ {
+  font-size: 20px;
+}
+.FeedbackOptions_optionsList__uT3b0 {
+  list-style: none;
+  display: flex;
+}
+.FeedbackOptions_feedbackOption__2nXRZ {
+  margin: 4px;
+}
+.FeedbackOptions_button__3Z-pr {
+  padding: 10px;
+  font-size: 20px;
+  background-color: #fff;
+  cursor: pointer;
+  border: 2px solid #f5f5f5;
+  border-radius: 16%;
+}
+.FeedbackOptions_button__3Z-pr:focus,
+.FeedbackOptions_button__3Z-pr:hover {
+  color: #fff;
+  background-color: #00f;
+}
+/*# sourceMappingURL=main.346e1481.chunk.css.map */
